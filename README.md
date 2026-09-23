@@ -9,6 +9,3 @@ this repository specifically Contains -:
 5- projects on Power Bi
 
 
-
-
-
