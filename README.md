@@ -8,4 +8,3 @@ this repository specifically Contains -:
 4- Data modeling Of the Dabatases
 5- projects on Power Bi
 
-
