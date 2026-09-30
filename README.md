@@ -7,4 +7,3 @@ this repository specifically Contains -:
 3- Dashboards for visualization of Real Active Dataset
 4- Data modeling Of the Dabatases
 5- projects on Power Bi
-
